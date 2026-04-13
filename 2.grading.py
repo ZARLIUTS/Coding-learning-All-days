@@ -1,5 +1,5 @@
 # 2.grading.py
-# โปรแกรมคำนวณเกรดจากคะแนน
+# โปรแกรมคำนวณเกรดจากคะแนนกลางภาคหรือปลายภาค
 score = float(input("entet_your_score"))
 
 if score >= 80:
