@@ -1,6 +1,6 @@
 # 2.grading.py
 # โปรแกรมคำนวณเกรดจากคะแนนกลางภาคหรือปลายภาค
-score = float(input("entet_your_score"))
+score = float(input("enter_your_score"))
 
 if score >= 80:
     print("A")
